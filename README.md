@@ -1,3 +1,12 @@
-This telecommunication dataset provide valuable insights into customer behavior, network performance, and service quality. 
-By performing various types of analysis, telecom companies can improve operations, optimize resources, and deliver better experiences for their customers. 
-The dataset also help in resolving number of answered and unanswered call by agents.
+This project focuses on analyzing call center operations to uncover insights into agent performance, customer satisfaction, and operational efficiency. Using real-world call log and customer feedback data, the goal was to identify key performance indicators (KPIs), detect service bottlenecks, and provide actionable recommendations to improve service delivery and customer experience.
+
+Objectives:
+Measure agent efficiency based on call handling time, resolution rate, and customer satisfaction.
+
+Identify peak call hours and analyze wait times and drop-off rates.
+
+Track First Call Resolution (FCR) and Escalation Rates.
+
+Determine customer sentiment from survey feedback and call logs.
+
+Create dashboards to monitor performance trends in real-time.
